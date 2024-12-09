@@ -1,0 +1,7 @@
+spacy
+transformers
+torch
+py2neo
+pandas
+fastapi
+uvicorn
